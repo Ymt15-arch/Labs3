@@ -1,0 +1,51 @@
+
+h1{
+    background-color: blue;
+    color: white;
+    text-decoration-line: underline;
+}
+
+.container{
+    background-color: gray;
+    color: black;
+}
+.highlight{
+    color: green;
+}
+.main-content{
+    background-color: yellow;
+}
+h2{
+    text-decoration-line: underline;
+}
+h3{
+    text-decoration-line: underline;
+}
+h4{
+    text-decoration-line: underline;
+}
+h5{
+    text-decoration-line: underline;
+}
+h6{
+    text-decoration-line: underline;
+}
+a{
+    text-decoration-line: none;
+}
+.bold-text{
+    font-weight: bold;
+}
+
+#intro{
+    font-weight: 300;
+}
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+h7{
+    text-transform: uppercase;
+}
+.capitalized-text{
+    text-transform: capitalize;
+}
